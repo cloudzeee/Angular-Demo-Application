@@ -46,7 +46,8 @@
   },
   "scripts": 
   {
-    "postinstall": "typings install"
     "build": "ng build"
+    "install": "npm install"
+    "postinstall": "typings install"
   }
 }
