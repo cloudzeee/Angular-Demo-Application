@@ -25,8 +25,6 @@ pipeline {
 
                 sh 'npm install -g @angular/cli'             
 
-                sh 'npm install'
-
             }
 
         }
